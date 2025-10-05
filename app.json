@@ -1,8 +1,8 @@
 {
-  "name": "ARSLAN-MD",
-  "description": "Javascript WhatsApp bot made by ArslanMD Official",
-  "logo": "https://files.catbox.moe/lcpy9f.jpg",
-  "keywords": ["ARSLAN-MD"],
+  "name": "Teddy",
+  "description": "Javascript WhatsApp bot made by Teddy",
+  "logo": "https://files.catbox.moe/ch0xs6.jpeg",
+  "keywords": ["Teddy"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "𝓐𝓻𝓼𝓵𝓪𝓷_𝓜𝓓"
+      "value": "Teddy"
     }, 
       
     "PREFIX": {
@@ -78,14 +78,14 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY ARSLAN-MD 🖤*"
+      "value": "*SEEN YOUR STATUS BY Teddy 🖤*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "ArslanMD Official"
+      "value": "Teddy"
 }, 
 
     "OWNER_NUMBER": {
@@ -98,7 +98,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "ARSLAN-MD"
+      "value": "Teddy"
 
       }, 
 
@@ -131,13 +131,13 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/lcpy9f.jpg"
+      "value": "https://files.catbox.moe/scppny.jpg"
     },
     
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*CREATER 𝓐𝓻𝓼𝓵𝓪𝓷_𝓜𝓓*"
+      "value": "*CREATER Teddy*"
     },
 
       "DELETE_LINKS": {
